@@ -12,3 +12,6 @@ streams:
   # NOTE: USE /dev/video6 for Wyze Cam v2/PanV1
   1080p: v4l2:device?video=/dev/video1&input_format=h264
   360p: v4l2:device?video=/dev/video2&input_format=h264
+  audio:
+    - v4l2:device?video=/dev/video2&input_format=h264#media=video
+    - exec:ffmpeg -hide_banner -f alsa -ac 1 -i dsnooper2 -ac 1 -c:a pcm_alaw -muxdelay 0 -muxpreload 0 -ar 8000 -f wav -#media=audio
