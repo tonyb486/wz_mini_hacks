@@ -3,7 +3,7 @@ ac9f3a5d097d25d5d972c3d2ad288df9  SD_ROOT/wz_mini/usr/bin/ucamera_v2
 b339aee882a5d1c943ad08e4282ec3fd  SD_ROOT/wz_mini/usr/bin/iCamera-dbg
 1080fd8fab00be80a333e004c6a5bd9c  SD_ROOT/wz_mini/usr/bin/iCamera
 0de553a920d30d1e9d84c9ab4136df0d  SD_ROOT/wz_mini/usr/bin/ucamera
-803e1b63eb0a9e8d25fbbd57e216e886  SD_ROOT/wz_mini/usr/bin/app.ver
+6924e324a554a0d90065d4ab9fbe82db  SD_ROOT/wz_mini/usr/bin/app.ver
 71b26aa98e14c4a1f5798b3e3a2d9bab  SD_ROOT/wz_mini/usr/bin/restart_wlan0.sh
 b10bdd54c56d8d8de2a27336f17285fe  SD_ROOT/wz_mini/usr/bin/patch_icamera.sh
 63c64fa3b86c5019065706705ed546cd  SD_ROOT/wz_mini/usr/bin/netmon.sh
@@ -25,7 +25,7 @@ ce77db197f6f3a8965b64d2cd1ee74fb  SD_ROOT/wz_mini/usr/share/terminfo.tar
 8ae897298d743faae8ef27303550e42d  SD_ROOT/wz_mini/bin/cmd
 343482b8e6569ff2fbd8563d6e8c58f7  SD_ROOT/wz_mini/bin/fsck.vfat
 fbbc2a8f362d05fc31557b1a534b42c6  SD_ROOT/wz_mini/bin/wget
-3dbed0e1450cb60eca924379f5055c75  SD_ROOT/wz_mini/bin/ffmpeg
+753eb58811f5ab654efef9bb4552e59e  SD_ROOT/wz_mini/bin/ffmpeg
 36cbfe7b96d4240a6b138dd3695ccefd  SD_ROOT/wz_mini/bin/strings
 79d69cd251a8cdadd9957cdaec2034fc  SD_ROOT/wz_mini/bin/rtmp-stream.sh
 1d22d5b22150012c95731b4ef7628c64  SD_ROOT/wz_mini/bin/objdump
